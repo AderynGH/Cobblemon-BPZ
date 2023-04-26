@@ -7,10 +7,8 @@ Issue: Big wall of error text when joining the server.
 Problem: Mods are not loaded correctly (A) or/
 The wrong mods are loaded (B)
 
-Fix (A.1): Check which version of minecraft is launched, to correctly load the mods the version
+Fix (A): Check which version of minecraft is launched, to correctly load the mods the version
 has to be fabric loader 1.19.2.
-
-Fix (A.2): There is a JDK included in the drive, sometimes installing this version corrects bugs.
 
 Fix (B): If you have previously installed mods inside of your mods folder, delete them and
 only have the mod pack files inside of the folder.
