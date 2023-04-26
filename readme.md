@@ -1,4 +1,7 @@
-# TL;DR at the bottom.
+## If you are updating, you only need to add *patch mods* to your *.minecraft\mods* folder.
+
+### TL;DR at the bottom.
+
 
 -------------------------------------------------------------------------------------
 
