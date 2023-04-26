@@ -1,16 +1,16 @@
-TL;DR at the bottom.
+# TL;DR at the bottom.
 
 -------------------------------------------------------------------------------------
 
 To install this mod pack, you will need to download and install fabric loader.
 
 Inside the MC Server drive in Main Mod Files > Installers there is an current
-up to date version of the loader: fabric-installer-0.11.2.exe
+up to date version of the loader: *fabric-installer-0.11.2.exe*
 
 Alternatively you can download the installer from:
 https://fabricmc.net 
 
-Install for game version 1.19.2.
+**Install for game version 1.19.2.**
 
 This should create a launch option in your launcher.
 
@@ -28,11 +28,11 @@ Note: The fabric API and Architecture are included in the mod pack.
 -------------------------------------------------------------------------------------
 
 Also inside of the Installers folder of the drive there is Optifine installer.
-This file is INCLUDED in the CobbleMon MC Pack.zip
+This file is INCLUDED in the *CobbleMon MC Pack.zip*
 This is for convenience when installing the mod pack since it also needs to be inside
 of your mods folder.
 
-You can launch the OptiFine_1.19.2_HD_U_I1.jar from inside the .zip or download the
+You can launch the *OptiFine_1.19.2_HD_U_I1.jar* from inside the .zip or download the
 file from the drive and run it.
 
 You can also download the file from: 
@@ -58,7 +58,7 @@ CobbleMon MC Pack inside of your mods folder in '.minecraft'.
 create a folder and name it 'mods' and place the mods in there. //
 
 To navigate to this folder by default it should be in 
-C:\Users\"your user"\AppData\Roaming\.minecraft
+*C:\Users\"your user"\AppData\Roaming\.minecraft*
 
 // If you can't see your AppData folder, if you're using windows 11 click view at top
 hover show in the table, click 'hidden items.'
@@ -72,7 +72,7 @@ Included in the mod pack is a zip file called 'Emotecraft-emotes-master'
 these need to be placed in your .minecraft in a folder labelled 'emotes'
 
 Navigate inside of the zip folder, place all .json files inside of the folders
-'emotes' and 'NSFW' and place them in \Roaming\.minecraft\emotes if the folder does 
+'emotes' and 'NSFW' and place them in *\Roaming\.minecraft\emotes* if the folder does 
 not exist, create a folder inside of .minecraft and label is emotes, and place the
 .json files in there. 
 
