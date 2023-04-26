@@ -7,7 +7,7 @@
 
 To install this mod pack, you will need to download and install fabric loader.
 
-Inside *Installers.zip* there is an current up to date version of the loader:
+Inside *Installers* there is an current up to date version of the loader:
 *fabric-installer-0.11.2.exe*
 
 Alternatively you can download the installer from:
@@ -30,13 +30,13 @@ higher than 16gb of ram.
 
 -------------------------------------------------------------------------------------
 
-Also inside of *Installers.zip* there is an Optifine installer.
+Also inside of *Installers* there is an Optifine installer.
 This file is INCLUDED in the *CobbleMon MC Pack*
 This is for convenience when installing the mod pack since it also needs to be inside
 of your mods folder.
 
-You can launch the *OptiFine_1.19.2_HD_U_I1.jar* from inside the or download the
-file from the drive and run it.
+You can launch the *OptiFine_1.19.2_HD_U_I1.jar* from inside *CobbleMon MC Pack* 
+or download and run it from *Installers.*
 
 You can also download the file from: 
 https://optifine.net/adloadx?f=OptiFine_1.19.2_HD_U_I1.jar
