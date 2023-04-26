@@ -4,8 +4,8 @@
 
 To install this mod pack, you will need to download and install fabric loader.
 
-Inside the MC Server drive in Main Mod Files > Installers there is an current
-up to date version of the loader: *fabric-installer-0.11.2.exe*
+Inside *Installers.zip* there is an current up to date version of the loader:
+*fabric-installer-0.11.2.exe*
 
 Alternatively you can download the installer from:
 https://fabricmc.net 
@@ -23,16 +23,16 @@ In JVM arguments change the number value inside of '-Xmx2G' to a range between 8
 8 can be used for lower settings, up to 16 for higher. The pack shouldn't require 
 higher than 16gb of ram.
 
-Note: The fabric API and Architecture are included in the mod pack.
+*Note: The fabric API and Architecture are included in the mod pack.*
 
 -------------------------------------------------------------------------------------
 
-Also inside of the Installers folder of the drive there is Optifine installer.
-This file is INCLUDED in the *CobbleMon MC Pack.zip*
+Also inside of *Installers.zip* there is an Optifine installer.
+This file is INCLUDED in the *CobbleMon MC Pack*
 This is for convenience when installing the mod pack since it also needs to be inside
 of your mods folder.
 
-You can launch the *OptiFine_1.19.2_HD_U_I1.jar* from inside the .zip or download the
+You can launch the *OptiFine_1.19.2_HD_U_I1.jar* from inside the or download the
 file from the drive and run it.
 
 You can also download the file from: 
@@ -51,8 +51,8 @@ Run the optifine file and it should create a launch option in your launcher.
 
 -------------------------------------------------------------------------------------
 
-Once Fabric and Optifine are installed, un-zip all of the mods inside of 
-CobbleMon MC Pack inside of your mods folder in '.minecraft'. 
+Once Fabric and Optifine are installed, place all of the mods inside of 
+CobbleMon MC Pack inside of your mods folder in *'.minecraft'.* 
 
 // If there isn't a mod folder inside of your .minecraft, 
 create a folder and name it 'mods' and place the mods in there. //
@@ -68,7 +68,7 @@ launch inside of the appdata folder, then navigate from there. //
 
 -------------------------------------------------------------------------------------
 
-Included in the mod pack is a zip file called 'Emotecraft-emotes-master'
+Inside of *CobbleMon MC Pack* there is .zip: *Emotecraft-emotes-master*
 these need to be placed in your .minecraft in a folder labelled 'emotes'
 
 Navigate inside of the zip folder, place all .json files inside of the folders
@@ -83,7 +83,7 @@ joinable.
 
 Though I would recommend shader packs, for a better look to the game.
 
-Inside of MC Server there is a folder labeled Shader Pack, and it includes the shader
+Inside *Cobblemon-BPZ* there is a .zip: *Shader Pack*, and it includes the shader
 pack I use. Shaders are resource intensive so if these shaders are too taxing, 
 you can look online for shaders that are less taxing.
 
