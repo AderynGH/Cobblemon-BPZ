@@ -113,14 +113,14 @@ This should up fps without sacrificing much quality. //
 
 TL;DR
 
-Install Fabric Loader and create an install for MC patch 1.19.2.
+* Install Fabric Loader and create an install for MC patch 1.19.2.
 
-Install a 1.19.2 Optifine version.
+* Install a 1.19.2 Optifine version.
 
-Unpack mods from CobbleMon MC Pack.zip into .minecraft\mods\ folder.
+* Unpack mods from CobbleMon MC Pack.zip into .minecraft\mods\ folder.
 
-Unpack emotes from Emotecraft-emotes-master.zip into .minecraft\emotes\ folder.
+* Unpack emotes from Emotecraft-emotes-master.zip into .minecraft\emotes\ folder.
 
-Optional Shader pack included.
+* Optional Shader pack included.
 
 
